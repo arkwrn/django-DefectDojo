@@ -14,4 +14,7 @@ update_configs:
     directory: "/"
     target_branch: "dev"
     update_schedule: "weekly"
+<<<<<<< HEAD
 
+=======
+>>>>>>> ca8a7a4db488a39dff8ba81dc1520de7048a1be4
